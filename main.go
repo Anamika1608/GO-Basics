@@ -11,4 +11,5 @@ func main() {
 	fmt.Println(quote.Go())
 	fmt.Println(greetings.Hello("Anamika"))
 	fmt.Println(greetings.Bless())
+	variables()
 }
